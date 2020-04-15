@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-chat",
+  "version": "1.0.0",
+  "description": "nodejs chat ",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "didierganthier",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
